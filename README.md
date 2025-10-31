@@ -19,7 +19,11 @@ warp up pjt
 
 ■ 계획
 1회차 - inflearn학습, github학습(1. 주식데이터이해)
+202510 - 주식진행안 확정 (워렌버핏따라잡기)
 2회차 - github학습 (2. 데이터 수집 및 정제)
+20251031 - hyunjin - 게임섹터 확인, 데이터사이언스 진행 방향 확정, test modeling 성공(NCsoft.ipynb)
+                   - next : SHAP vs XBooter BUG해결 or 다른 솔루션 검색 적용
+                            data 범주확장, 가중치 범주 확장, 모델링 정교화 + 1031버젼 Update, 소규모소외주 모델링 
 3회차 - My github  (2. 데이터 수집 및 정제)
 4회차 - github학습 (3. 분석 시스템 구현 학습)
 5회차 - My github (3. 분석 시스템 구현 학습)
